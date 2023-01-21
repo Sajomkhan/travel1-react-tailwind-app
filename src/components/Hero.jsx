@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
     return (
-        <div className='w-full h-screen'>
+        <div name='home' className='w-full h-screen'>
             <img 
                 className='top-0 left-0 w-full h-screen object-cover' 
                 src="https://s5s6c2i4.stackpathcdn.com/wp-content/uploads/2021/08/img_testata_pag_beach_villa-1.jpg" 

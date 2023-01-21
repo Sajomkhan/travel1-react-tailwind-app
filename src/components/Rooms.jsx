@@ -2,7 +2,7 @@ import React from 'react';
 
 const Rooms = () => {
   return (
-    <div className='max-w-[1300px] bg-sky-200 my-11 mx-auto grid lg:grid-cols-2 gap-4'>
+    <div name='rooms' className='max-w-[1300px] bg-sky-200 my-11 mx-auto grid lg:grid-cols-2 gap-4'>
       <div className='flex flex-col h-full justify-center lg:text-right pt-8'>
         <h3 className='px-5 text-4xl font-bold'>Fine Interior Rooms</h3>
         <p className='px-5 pt-4'>
