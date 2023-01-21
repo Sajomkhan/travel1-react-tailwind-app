@@ -1,4 +1,4 @@
-# A awesome Travel Agency with React-Tailwined
+# A awesome Travel Agency App with React-Tailwined
 
 ### Go to Live Project: https://travel1-react-tailwined-app.netlify.app/
 
