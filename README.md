@@ -2,6 +2,12 @@
 
 ### Go to Live Project: https://travel1-react-tailwined-app.netlify.app/
 
+### What I use here:
+* Reactjs
+* Tailwinedcss
+* React-scroll
+* React-icons
+
 #### First Create React App by command line:
 
     npx create-react-app ./
