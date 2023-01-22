@@ -3,20 +3,22 @@
 ### Go to Live Project: https://travel1-react-tailwined-app.netlify.app/
 
 ### What I use here:
-* Reactjs
+* React
 * Tailwinedcss
 * React-scroll
 * React-icons
 
-#### First Create React App by command line:
+#### First Create React App by using command line:
 
     npx create-react-app ./
 
-#### Then install Tailwined CSS by command line:
+### For install Tailwined you have to follow 4 steps, such as...
+
+#### Install Tailwined CSS by command line:
 
     npm install -D tailwindcss
 
-#### command to generate your tailwind.config.js file:
+#### Generate your tailwind.config.js file:
 
      npx tailwindcss init
 
@@ -31,3 +33,15 @@
     @tailwind base;
     @tailwind components;
     @tailwind utilities;
+ 
+ ### Use React-Icon
+* install react-icon:
+    npm i react-icons --save
+* import react-icons:
+    import { FaBars, FaTimes, } from 'react-icons/fa'
+ 
+### Use React-scroll
+* React-scrol install:
+    npm install react-scroll
+* import react-scrol Link:
+    import { Link } from 'react-scroll'
