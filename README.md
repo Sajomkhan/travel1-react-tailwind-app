@@ -34,14 +34,10 @@
     @tailwind components;
     @tailwind utilities;
  
- ### Use React-Icon
-* install react-icon:
+ ### Install & import React-Icon:
     npm i react-icons --save
-* import react-icons:
     import { FaBars, FaTimes, } from 'react-icons/fa'
  
-### Use React-scroll
-* React-scrol install:
+### Install & import React-scroll:
     npm install react-scroll
-* import react-scrol Link:
     import { Link } from 'react-scroll'
