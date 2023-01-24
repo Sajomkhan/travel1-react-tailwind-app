@@ -6,7 +6,7 @@
 ![CHEESE!](image/plan.jpeg)
 ![CHEESE!](image/room.jpeg)
 ![CHEESE!](image/food.jpeg)
-![CHEESE!](image/image.jpeg)
+![CHEESE!](image/footer.jpeg)
 
 ### What I use here:
 * React
