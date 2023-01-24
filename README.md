@@ -2,6 +2,8 @@
 
 ### Go to Live Project: https://travel1-react-tailwined-app.netlify.app/
 
+![CHEESE!](image.jpeg)
+
 ### What I use here:
 * React
 * Tailwinedcss
