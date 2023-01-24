@@ -2,7 +2,7 @@
 
 ### Go to Live Project: https://travel1-react-tailwined-app.netlify.app/
 
-![CHEESE!](image.jpeg)
+![CHEESE!](Image.jpeg)
 
 ### What I use here:
 * React
