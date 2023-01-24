@@ -2,10 +2,9 @@
 
 ### Go to Live Project: https://travel1-react-tailwined-app.netlify.app/
 
-![CHEESE!](Image.jpeg)
-
 [![image](Image.jpeg)](https://travel1-react-tailwined-app.netlify.app/)
 
+#### Add image with link in Readme Directory:
 [![name](link to image on GH)](link to your URL)
 
 ### What I use here:
