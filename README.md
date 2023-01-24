@@ -2,11 +2,7 @@
 
 ### Go to Live Project: https://travel1-react-tailwined-app.netlify.app/
 
-![CHEESE!](/image/home.jpeg)
-![CHEESE!](/image/plan.jpeg)
-![CHEESE!](/image/room.jpeg)
-![CHEESE!](/image/food.jpeg)
-![CHEESE!](/image/footer.jpeg)
+![CHEESE!](image/home.jpeg)
 
 ### What I use here:
 * React
