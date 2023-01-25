@@ -1,15 +1,15 @@
-# A awesome Travel Agency App with React-Tailwined
+# A awesome Travel Agency App with React-Tailwindcss
 
-### Go to Live Project: https://travel1-react-tailwined-app.netlify.app/
+### Go to Live Project: https://travel1-react-tailwind-app.netlify.app/
 
-[![image](Image.jpeg)](https://travel1-react-tailwined-app.netlify.app/)
+[![image](Image.jpeg)](https://travel1-react-tailwind-app.netlify.app/)
 
 #### Add image with link in Readme Directory:
 [![name](link to image on GH)](link to your URL)
 
 ### What I use here:
 * React
-* Tailwinedcss
+* Tailwindcss
 * React-scroll
 * React-icons
 
@@ -17,9 +17,9 @@
 
     npx create-react-app ./
 
-### For install Tailwined you have to follow 4 steps, such as...
+### For install Tailwind you have to follow 4 steps, such as...
 
-#### Install Tailwined CSS by command line:
+#### Install Tailwind CSS by command line:
 
     npm install -D tailwindcss
 
