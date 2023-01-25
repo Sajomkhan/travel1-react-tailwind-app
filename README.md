@@ -1,8 +1,8 @@
 # A awesome Travel Agency App with React-Tailwindcss
 
-### Go to Live Project: https://travel1-react-tailwind-app.netlify.app/
+### Go to Live Project: https://travel1-react-tailwined-app.netlify.app/
 
-[![image](Image.jpeg)](https://travel1-react-tailwind-app.netlify.app/)
+[![image](Image.jpeg)](https://travel1-react-tailwined-app.netlify.app/)
 
 #### Add image with link in Readme Directory:
 [![name](link to image on GH)](link to your URL)
