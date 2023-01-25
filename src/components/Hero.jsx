@@ -7,7 +7,11 @@ const Hero = () => {
                 className='top-0 left-0 w-full h-screen object-cover' 
                 src="https://s5s6c2i4.stackpathcdn.com/wp-content/uploads/2021/08/img_testata_pag_beach_villa-1.jpg" 
             />
+        
+            {/* Over Lay */}
             <div className='bg-black/30 absolute top-0 left-0 w-full h-screen' />
+                
+            {/* Hero Text Container */}
             <div className='absolute top-0 w-full h-full flex flex-col justify-center text-white'>
                 <div className='sm:left-[10%] m-auto absolute p-4'>
                     <p>All Inclusive</p>
