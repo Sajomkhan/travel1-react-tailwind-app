@@ -1,12 +1,14 @@
 # A awesome Travel Agency App with React-Tailwindcss
-#### Full Mobile Responsive App
+### Full Mobile Responsive App
 
 ### Go to Live Project: https://travel1-react-tailwined-app.netlify.app/
 
 [![image](Image.jpeg)](https://travel1-react-tailwined-app.netlify.app/)
 
 #### Add image with link in Readme Directory:
-[![name](link to image on GH)](link to your URL)
+[![name](image link)](link to your URL)
+
+### Full Mobile Responsive App
 
 ### What I use here:
 * React
